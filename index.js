@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 //const bot = new Discord.Client();
 const Commando = require('discord.js-commando');
 const bot = new Commando.Client();
-const botKey = 'NDk0NTE4MDY2MjUyNjExNjA0.Do0woQ.8zG1eCC842ouF_Rk2CsK9kaFVHs';
+const botKey = 'GOFUCKYOURSELFYOUMASSIVEPIECESOFSHIT';
 
 bot.registry.registerGroup('simple', 'Simple');
 bot.registry.registerGroup('music', 'Music');
